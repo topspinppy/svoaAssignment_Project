@@ -8,6 +8,6 @@
         <link href="https://fonts.googleapis.com/css?family=Kanit" rel="stylesheet">
     </head>
     <body  style="font-family: 'Kanit', sans-serif;">
-        <center> เขียน Code ใส่ที่นี่ ฝ่ายขายส่งนะจ๊ะ </center>
+         <center> เขียน Code ใส่ที่นี่ คลังสินค้า</center>
     </body>
 </html>
