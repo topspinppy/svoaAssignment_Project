@@ -1,2 +1,4 @@
-"# svoaAssignment_Project" 
-"# svoaAssignment_Project" 
+"# svoaAssignment_Project"
+________________________________
+วิธีการใช้งาน
+1. Clone ตัว Project ลงไปในเครื่องคอมพิวเตอร์
